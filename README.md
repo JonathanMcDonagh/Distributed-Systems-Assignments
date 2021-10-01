@@ -1,5 +1,7 @@
-# Distributed-Systems
+## Distributed Systems
 
-Year 4 Semester 2 of BSc (Hons) in Software Systems Development
+Name: Jonathan McDonagh
 
-Distributed Systems Module Java Assignments
+BSc (Hons) in Software Systems Development - Year 4 Semester 1
+
+**Grade:** 76%  
